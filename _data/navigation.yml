@@ -1,9 +1,10 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Researchers"
+    url: /researchers/
+  - title: "Selected Publications"
+    url: /selectedpublications/
+  - title: "Weekly Gathering"
+    url: /weeklygathering/
+  
