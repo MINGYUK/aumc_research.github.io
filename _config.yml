@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ajou University Medical Forum
+title: Ajou University Medical Research Forum
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ajou University Medical Research Society"
-  avatar : "/assets/images/Ajou University Medical Forum.jpg"
+  avatar : "/assets/images/Ajou University Medical Research Society.png"
   bio    : "Continuously explore the unknown world with us!"
   links:
     - label: "Website"
