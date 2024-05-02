@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-![image](/assets/images/Ajou University Medical Research Society.png){: .align-left}
+![Ajou University Medical Research Society](https://github.com/MINGYUK/aumc_research.github.io/assets/135110842/628a05f9-25d7-4608-890b-946a3c9d14e5){: .align-left}
 
 The Ajou University Medical Research Forum is a weekly gathering hosted by the Ajou University Medical Research Society. The society is comprised of translational medicine researchers, primarily M.D.-Ph.D. holders, who are alumni of the Ajou University School of Medicine. Our members specialize in areas including Biochemistry, Clinical Oncology, Neurology, Brain Science Bioinformatics, and Medical Informatics. We pursue a broad range of translational medical research, with a primary focus on integrating in vitro/in vivo transcriptomics with real-world medical data.
 
