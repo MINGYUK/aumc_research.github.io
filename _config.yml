@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Ajou University Medical Forum"
+  name   : "Ajou University Medical Research Society"
   avatar : "/assets/images/Ajou University Medical Forum.jpg"
-  bio    : "The Ajou University Medical Forum is a society of translational medicine researchers, primarily M.D.-Ph.D. holders, from the Ajou University School of Medicine. This forum encompasses a wide range of multidisciplinary fields, facilitating collaboration and innovation in medical research."
+  bio    : "Continuously explore the unknown world with us!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
