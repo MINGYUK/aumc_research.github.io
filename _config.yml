@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ajou University Medical Forum"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Ajou University Medical Forum.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
