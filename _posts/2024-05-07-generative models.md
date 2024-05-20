@@ -18,7 +18,7 @@ tags:
 간략하게 생성형 모델의 역사를 들여다보면서, 어떤 모델이 좋은 모델인지에 대해서도 알아보자.
 
 ![Diffusion model과 GAN 모델의 비교](https://cdn.neowin.com/news/images/uploaded/2021/05/1621148897_output.jpg){: .align-left}
-(출처: https://cdn.neowin.com/news/images/uploaded/2021/05/1621148897_output.jpg)
+(출처: https://cdn.neowin.com/news/images/uploaded/2021/05)
 
 위는 이미지 생성 모델의 결과이다. 어떤 결과가 더 좋은 결과일까? 여기서 보여주고자 하는 것은 이미지의 질이 아니다. 오른쪽으로 갈수록, 같은 대상에 대해 다양한 이미지가 생성된다는 것을 볼 수 있다.
 왼쪽은 GAN, 오른쪽은 diffusion 모델이다. 더 다양한 이미지를 보여주는 diffusion model이 더 최신의 architecture이고, 생성형 모델에서는 하나의 class에 대해 다양한 이미지가 생성될 수 있는 것이 favorable하다.
