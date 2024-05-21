@@ -48,7 +48,7 @@ explicit, implicit model로 생성형 모델을 분류할 수도 있다. 위에�
 
 <figure class="align-center">
   <img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/04/29202749/Blog_info_29-04-2020-R-02-2048x1045.png" alt="Autoencoder">
-  <figcaption>출처: https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/04/29202749></figcaption>
+  <figcaption>출처: https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/04/29202749</figcaption>
 </figure>
 
 Autoencoder는 input data를 latent representation으로 나타내는 encoder, latent representation으로부터 원본 데이터를 복원시키는 decoder로 구성된다. 라벨 없이 데이터만 있어도 latent representation을 가능하게 하기 때문에 유용하며, 따라서 보통은 encoder만 사용하고 decoder는 버린다. 그런데, latent representation으로부터 원본 데이터를 생성할 수 있다면 decoder에 random noise를 투입하면 새로운 데이터를 생성할 수 있을까?
@@ -61,6 +61,6 @@ Autoencoder는 input data를 latent representation으로 나타내는 encoder, l
 
 <figure class="align-center">
   <img src="https://insights.daffodilsw.com/hs-fs/hubfs/Allen/Diffusion%20Models%20moving%20to%20and%20from%20data%20and%20noise.png?width=3555&height=2000&name=Diffusion%20Models%20moving%20to%20and%20from%20data%20and%20noise.png" alt="Diffusion model">
-  <figcaption>출처: https://insights.daffodilsw.com/hs-fs/hubfs/Allen></figcaption>
+  <figcaption>출처: https://insights.daffodilsw.com/hs-fs/hubfs/Allen</figcaption>
 </figure>
 
