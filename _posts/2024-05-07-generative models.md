@@ -64,3 +64,8 @@ Autoencoder는 input data를 latent representation으로 나타내는 encoder, l
   <figcaption>출처: https://insights.daffodilsw.com/hs-fs/hubfs/Allen</figcaption>
 </figure>
 
+Diffusion model은 원본 이미지에 서서히 노이즈를 추가한 과정을 거꾸로 돌리는 법을 학습하는 모델이다. 임의의 이미지 X가 있을 때, Gaussian noise를 조금씩 추가하면 이미지 데이터셋의 분포는 Gaussian distribution이 된다. 이는 VAE에서 latent representation이 특정 분포를 따르게끔 유도되는 것과 유사하다. 
+
+단계적으로 진행되는 프로세스를 Markov chain이라고 하며, 단계가 길수록 연산 시간이 오래 걸릴 수밖에 없다. 이때 forward process의 경우 직접 모든 단계를 계산할 필요 없이 특정 단계의 X를 즉시 계산할 수 있어 시간이 오래 걸리지 않는다.
+
+거꾸로 random noise로부터 원본 이미지까지 가는 과정을 생각해보자. Forward process를 어떻게 되돌릴 수 있을까? 핵심은 $p(X_{t-1}|X_t)$을 학습하는 것에 있다. 현 상태에서 한 단계씩 이전 이미지를 추정하는 것이다.
